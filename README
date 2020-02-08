@@ -1,0 +1,6 @@
+IDOLA STAT TABLE
+
+Contains values for each character in IDOLA
+Ordered in rows by limit, then db level, then level.
+See the example for an idea how it looks.
+Names are mentioned in the column header over their speed stat.
